@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938329039598",
+    "project_id": "loginauth-3485b",
+    "storage_bucket": "loginauth-3485b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938329039598:android:2c00a4b6712923a27889ff",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDev9v3gk5h_dxYlzpz6MgdSNgATQX2C9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
